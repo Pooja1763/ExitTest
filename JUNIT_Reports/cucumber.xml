@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="7" time="111.155598">
+    <testcase classname="Check the Functionality of Animation" name="Animation" time="16.285286">
+        <system-out>
+            <![CDATA[Given App is present........................................................passed
+When click on animation button..............................................passed
+And click on hide-show button...............................................passed
+And click on hide button and click on two...................................passed
+Then click on show button...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Check the Functionality of APP" name="APP Functionality" time="15.70867">
+        <system-out>
+            <![CDATA[Given Tap on the app button.................................................passed
+When click on the fragment..................................................passed
+And Click on nested and stack...............................................passed
+And click on the push button................................................passed
+And tap on tabs and click on get result.....................................passed
+Then Click on the pick result...............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Check the Functionality of Content" name="Content Functionality" time="13.238398">
+        <system-out>
+            <![CDATA[Given Tap on the content button.............................................passed
+When click on the clipboard.................................................passed
+And Tap on datatype.........................................................passed
+And Click on the clip.......................................................passed
+Then Result is shown........................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Check the Functionality of OS" name="OS Functionality" time="21.080181">
+        <system-out>
+            <![CDATA[Given Tap on the OS button..................................................passed
+When click on message.......................................................passed
+And enter the receipient name "Pihu"........................................passed
+And enter the message body "Hello, How are You".............................passed
+Then Click on the send......................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Check the Functionality of OS" name="OS Functionality" time="15.136541">
+        <system-out>
+            <![CDATA[Given Tap on the OS button..................................................passed
+When click on message.......................................................passed
+And enter the receipient "Panchi"...........................................passed
+And enter the message "Hii".................................................passed
+Then Click on the send......................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Check the Functionality of OS" name="OS Functionality 2" time="15.085358">
+        <system-out>
+            <![CDATA[Given Tap on the OS button..................................................passed
+When click on message.......................................................passed
+And enter the receipient "Janvi"............................................passed
+And enter the message "Hey".................................................passed
+Then Click on the send......................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Check the Functionality of View" name="View Functionality" time="14.621164">
+        <system-out>
+            <![CDATA[Given Tap on the View.......................................................passed
+When click on animation.....................................................passed
+And click on 3d transition..................................................passed
+And click on image name.....................................................passed
+Then Click on image.........................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

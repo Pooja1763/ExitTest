@@ -1,0 +1,11 @@
+Base\Test.class
+Logger\Log4j.class
+Pages\View.class
+Pages\App.class
+Utility\AppiumServer.class
+Utility\ExtentReport.class
+Pages\Animation.class
+Base\BaseClass.class
+Pages\Graphics.class
+Pages\Content.class
+Utility\Capability.class

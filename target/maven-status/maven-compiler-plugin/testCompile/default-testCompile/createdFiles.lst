@@ -1,0 +1,7 @@
+StepDefinition\AppFeature.class
+StepDefinition\GraphicFeature.class
+StepDefinition\AnimationFeature.class
+StepDefinition\ContentFeature.class
+Runner\Runner.class
+StepDefinition\Hook.class
+StepDefinition\ViewFeature.class
